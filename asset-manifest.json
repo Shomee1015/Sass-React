@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-sass/static/css/main.e19c9676.chunk.css",
-    "main.js": "/react-sass/static/js/main.9cfe8835.chunk.js",
-    "main.js.map": "/react-sass/static/js/main.9cfe8835.chunk.js.map",
-    "runtime~main.js": "/react-sass/static/js/runtime~main.d32e150a.js",
-    "runtime~main.js.map": "/react-sass/static/js/runtime~main.d32e150a.js.map",
-    "static/js/2.3310f33a.chunk.js": "/react-sass/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/react-sass/static/js/2.3310f33a.chunk.js.map",
-    "index.html": "/react-sass/index.html",
-    "precache-manifest.64246996a55927bbd4085619c6bab9c6.js": "/react-sass/precache-manifest.64246996a55927bbd4085619c6bab9c6.js",
-    "service-worker.js": "/react-sass/service-worker.js",
-    "static/css/main.e19c9676.chunk.css.map": "/react-sass/static/css/main.e19c9676.chunk.css.map"
+    "main.css": "/SASS-REACT/react-sass/static/css/main.e19c9676.chunk.css",
+    "main.js": "/SASS-REACT/react-sass/static/js/main.1a7d89e8.chunk.js",
+    "main.js.map": "/SASS-REACT/react-sass/static/js/main.1a7d89e8.chunk.js.map",
+    "runtime~main.js": "/SASS-REACT/react-sass/static/js/runtime~main.efbf3cf9.js",
+    "runtime~main.js.map": "/SASS-REACT/react-sass/static/js/runtime~main.efbf3cf9.js.map",
+    "static/js/2.3310f33a.chunk.js": "/SASS-REACT/react-sass/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/SASS-REACT/react-sass/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/SASS-REACT/react-sass/index.html",
+    "precache-manifest.918df9520082834ddd60fdfd3652d392.js": "/SASS-REACT/react-sass/precache-manifest.918df9520082834ddd60fdfd3652d392.js",
+    "service-worker.js": "/SASS-REACT/react-sass/service-worker.js",
+    "static/css/main.e19c9676.chunk.css.map": "/SASS-REACT/react-sass/static/css/main.e19c9676.chunk.css.map"
   }
 }
